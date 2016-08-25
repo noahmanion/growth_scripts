@@ -1,0 +1,3 @@
+# GROWTH SCRIPTS
+
+I've created this collection of (mostly) python scripts to help with my work on the Growth Team at [Digital Intent](http://digintent.com/). For the most part these are _very_ simple python scripts (ie. they do one job: they take an input, process the data in some simple way and then spit it out into a CSV) used for both buisness development and market research. I hope to be able to fill this repo out a little bit more, but for the most part, this mostly exists as a place to store scripts for other team members.
